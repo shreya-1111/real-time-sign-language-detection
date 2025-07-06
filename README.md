@@ -1,2 +1,2 @@
 # real-time-sign-language-detection
-real time sign language detection- detects alphabets
+Used ASL database to train and test the model efficiently
